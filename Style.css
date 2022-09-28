@@ -1,0 +1,46 @@
+body {
+	color: #333333;
+	border: 15px solid #c9c9c9;
+	box-sizing: border-box;
+	font-family: "Times New Roman", Times, serif;
+	margin: auto;
+	min-width: 600px;
+	padding: 2rem 3rem 2rem 3rem;
+	width: 60%;
+}
+
+img {
+	display: block;
+	margin: 3rem;
+	width: 40%;
+}
+
+
+h1, h2, h3 {
+	color: #58b4f5;
+	font-family: Arial, Helvetica, sans-serif; 
+}
+
+.special-paragraph {
+	color: #F2AA52;
+	font-style: italic;
+	line-height: 1.5;
+}
+
+h1 {
+	font-size: 3.5rem ;
+}
+
+h2 {
+	font-size: 2.25rem;
+	font-weight: normal;
+}
+
+h3 { 
+	text-transform: uppercase;
+}
+
+ul {
+	list-style-type: square;
+}
+
